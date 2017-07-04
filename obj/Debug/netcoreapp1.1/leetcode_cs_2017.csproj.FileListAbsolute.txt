@@ -1,0 +1,8 @@
+C:\Users\Guanxiong Yang\Documents\Job2017_Interview\leetcode_cs_2017\bin\Debug\netcoreapp1.1\leetcode_cs_2017.deps.json
+C:\Users\Guanxiong Yang\Documents\Job2017_Interview\leetcode_cs_2017\bin\Debug\netcoreapp1.1\leetcode_cs_2017.runtimeconfig.json
+C:\Users\Guanxiong Yang\Documents\Job2017_Interview\leetcode_cs_2017\bin\Debug\netcoreapp1.1\leetcode_cs_2017.runtimeconfig.dev.json
+C:\Users\Guanxiong Yang\Documents\Job2017_Interview\leetcode_cs_2017\bin\Debug\netcoreapp1.1\leetcode_cs_2017.dll
+C:\Users\Guanxiong Yang\Documents\Job2017_Interview\leetcode_cs_2017\bin\Debug\netcoreapp1.1\leetcode_cs_2017.pdb
+C:\Users\Guanxiong Yang\Documents\Job2017_Interview\leetcode_cs_2017\obj\Debug\netcoreapp1.1\leetcode_cs_2017.AssemblyInfo.cs
+C:\Users\Guanxiong Yang\Documents\Job2017_Interview\leetcode_cs_2017\obj\Debug\netcoreapp1.1\leetcode_cs_2017.dll
+C:\Users\Guanxiong Yang\Documents\Job2017_Interview\leetcode_cs_2017\obj\Debug\netcoreapp1.1\leetcode_cs_2017.pdb
